@@ -4,3 +4,7 @@ Cronometro(timer) para Phasmophobia.
 2. Apretar el numpad 1, o el boton Fin para iniciar o detener el cronometro.
 3. Apretar el boton numpad 3, o el boton AvPag para reiniciar a 0.
 4. Para cerrarlo apretar, numpad 9, o boton RePag.
+
+# Descargar la fuente / Download the Font
+1. https://freefontsfamily.com/chiller-font-free/
+2. Click derecho e instalar fuente. / Right click and install font.
